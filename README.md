@@ -26,7 +26,7 @@ This project applies AI techniques to analyze tipping behavior using the **Tips 
 
 2. Navigate to the project directory:
    ```bash
-   cd AI_PROJECT-
+   cd Tip_Analysis
    ```
 
 3. Install dependencies:
